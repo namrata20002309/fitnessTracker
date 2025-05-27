@@ -1,0 +1,15 @@
+C:\UserProfile\UserProfile\UserService.Business\bin\Release\net8.0\UserService.Business.deps.json
+C:\UserProfile\UserProfile\UserService.Business\bin\Release\net8.0\UserService.Business.dll
+C:\UserProfile\UserProfile\UserService.Business\bin\Release\net8.0\UserService.Business.pdb
+C:\UserProfile\UserProfile\UserService.Business\bin\Release\net8.0\UserService.Data.dll
+C:\UserProfile\UserProfile\UserService.Business\bin\Release\net8.0\UserService.Data.pdb
+C:\UserProfile\UserProfile\UserService.Business\obj\Release\net8.0\UserService.Business.csproj.AssemblyReference.cache
+C:\UserProfile\UserProfile\UserService.Business\obj\Release\net8.0\UserService.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\UserProfile\UserProfile\UserService.Business\obj\Release\net8.0\UserService.Business.AssemblyInfoInputs.cache
+C:\UserProfile\UserProfile\UserService.Business\obj\Release\net8.0\UserService.Business.AssemblyInfo.cs
+C:\UserProfile\UserProfile\UserService.Business\obj\Release\net8.0\UserService.Business.csproj.CoreCompileInputs.cache
+C:\UserProfile\UserProfile\UserService.Business\obj\Release\net8.0\UserServ.22E026EB.Up2Date
+C:\UserProfile\UserProfile\UserService.Business\obj\Release\net8.0\UserService.Business.dll
+C:\UserProfile\UserProfile\UserService.Business\obj\Release\net8.0\refint\UserService.Business.dll
+C:\UserProfile\UserProfile\UserService.Business\obj\Release\net8.0\UserService.Business.pdb
+C:\UserProfile\UserProfile\UserService.Business\obj\Release\net8.0\ref\UserService.Business.dll

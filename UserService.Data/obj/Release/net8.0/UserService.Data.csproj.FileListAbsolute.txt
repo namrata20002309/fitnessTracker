@@ -1,0 +1,12 @@
+C:\UserProfile\UserProfile\UserService.Data\bin\Release\net8.0\UserService.Data.deps.json
+C:\UserProfile\UserProfile\UserService.Data\bin\Release\net8.0\UserService.Data.dll
+C:\UserProfile\UserProfile\UserService.Data\bin\Release\net8.0\UserService.Data.pdb
+C:\UserProfile\UserProfile\UserService.Data\obj\Release\net8.0\UserService.Data.csproj.AssemblyReference.cache
+C:\UserProfile\UserProfile\UserService.Data\obj\Release\net8.0\UserService.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\UserProfile\UserProfile\UserService.Data\obj\Release\net8.0\UserService.Data.AssemblyInfoInputs.cache
+C:\UserProfile\UserProfile\UserService.Data\obj\Release\net8.0\UserService.Data.AssemblyInfo.cs
+C:\UserProfile\UserProfile\UserService.Data\obj\Release\net8.0\UserService.Data.csproj.CoreCompileInputs.cache
+C:\UserProfile\UserProfile\UserService.Data\obj\Release\net8.0\UserService.Data.dll
+C:\UserProfile\UserProfile\UserService.Data\obj\Release\net8.0\refint\UserService.Data.dll
+C:\UserProfile\UserProfile\UserService.Data\obj\Release\net8.0\UserService.Data.pdb
+C:\UserProfile\UserProfile\UserService.Data\obj\Release\net8.0\ref\UserService.Data.dll
